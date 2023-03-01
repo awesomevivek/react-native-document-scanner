@@ -1,0 +1,26 @@
+{
+  "name": "react-native-document-scanner",
+  "description": "Scan documents, automatic border detection, automatic crop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AugustoPinheiro/react-native-document-scanner"
+  },
+  "keywords": [
+    "react-native",
+    "scanner",
+    "ios"
+  ],
+  "author": "Navhal Ritesh",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": "0.63.2"
+  },
+  "dependencies": {
+    "react": "16.13.1"
+  }
+}

@@ -118,13 +118,13 @@ SPEC CHECKSUMS:
   DoubleConversion: bb338842f62ab1d708ceb63ec3d999f0f3d98ecd
   Folly: de497beb10f102453a1afa9edbf8cf8a251890de
   glog: aefd1eb5dda2ab95ba0938556f34b98e2da3a60d
-  libopencv-contrib: 18a9e9432fb852d040374ad9ead3ba99fd87eaa2
+  libopencv-contrib: 01e8f05daf0e93e3f5fa395590fcf41ef312bef3
   React: 36d0768f9e93be2473b37e7fa64f92c1d5341eef
   react-native-camera: fd052e2a172d9f49d7427c7fa7b089da6d047a38
-  react-native-document-scanner: d648400b04b28a0d02bbf42814c58273a34c0edf
+  react-native-document-scanner: 7ce5f06b1b64709cc2ebb0d7395be3023a15ceec
   RNSVG: ff9b094e39dd4a437ebe17d1c7ceed286e75f426
   yoga: 684513b14b03201579ba3cee20218c9d1298b0cc
 
-PODFILE CHECKSUM: a24528fa406565124d4e1fa6e2c5b568dd3f09c0
+PODFILE CHECKSUM: a96a5cdcaaccf5f36485f5d491c64ba465939ccb
 
-COCOAPODS: 1.10.1
+COCOAPODS: 1.9.1
